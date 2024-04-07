@@ -1,0 +1,16 @@
+card_number|card_holder|policy_owner_id|expiration_date
+1234567890|John Doe|ph1|2025-12-31
+0987654321|Alice Smith|ph2|2025-11-30
+09783214567|Michael Myer|ph3|2025-10-11
+0891234567|Daniel Bryan|ph4|2025-09-20
+07243567189|Brock Lesnar|ph5|2025-08-15
+0689752341|Harry Potter|ph6|2025-07-17
+0578963421|Emma Watson||ph7|2025-06-23
+5432167890|Kevin De Bruyne|ph8|2025-05-02
+0123456789|Lee Sang Hyeok|ph9|2025-04-12
+1923845706|Son Heung-Min|ph10|ph11|2025-03-04
+1897654320|Percy Jackson|ph11|2025-02-01
+1789654320|Dwayne Johnson|ph12|2025-01-16
+1879654320|Cody Garrett Runnels|ph13|2024-12-31
+1789065432|Philip Walker Foden|ph14|2024-11-30
+0132456879|Philipp Lahm|ph15|2024-10-29

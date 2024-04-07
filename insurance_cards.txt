@@ -1,0 +1,16 @@
+claim_id|claim_date|insured_person|card_number|exam_date|claim_amount|status|bank|name|number
+f1|2024-03-01|John Doe|1234567890|2024-03-05|100.0|New|BankA|John Doe|123456
+f2|2024-03-02|Alice Smith|0987654321|2024-03-06|200.0|Adding|BankB|Alice Smith|987654
+f3|2024-03-03|Michael Myer|09783214567|2024-03-04|250.0|Updated|BankC|Michael Myer|897123
+f4|2024-03-07|Daniel Bryan|0891234567|2024-03-08|300.0|Adding|BankD|Daniel Bryan|645231
+f5|2024-03-09|Brock Lesnar|07243567189|2024-03-10|350.0|New|BankB|Brock Lesnar|789564
+f6|2024-03-11|Harry Potter|0689752341|2024-03-12|400.0|Updated|BankA|Harry Potter|567234
+f7|2024-03-13|Emma Watson|0578963421|2024-03-14|450.0|Adding|BankC|Emma Watson|271954
+f8|2024-03-15|Kevin De Bruyne|5432167890|2024-03-16|500.0|Adding|BankD|Kevin De Bruyne|351287
+f9|2024-03-17|Lee Sang Hyeok|0123456789|2024-03-18|550.0|Updated|BankA|Lee Sang Hyeok|498743
+f10|2024-03-19|Son Heung-Min|1923845706|2024-03-20|600.0|Deleted|BankD|Son Heung-Min|591846
+f11|2024-03-21|Percy Jackson|1897654320|2024-03-22|650.0|New|BankC|Percy Jackson|129485
+f12|2024-03-23|Dwayne Johnson|1789654320|2024-03-24|700.0|Adding|BankB|Dwayne Johnson|329648
+f13|2024-03-25|Cody Garrett Runnels|1879654320|2024-03-26|750.0|Adding|BankA|Cody Garrett Runnels|729148
+f14|2024-03-27|Philip Walker Foden|1789065432|2024-03-28|800.0|Deleted|BankA|Philip Walker Foden|946821
+f15|2024-03-29|Philipp Lahm|0132456879|2024-03-30|850.0|New|BankB|Philipp Lahm|654321

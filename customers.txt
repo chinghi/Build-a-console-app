@@ -1,0 +1,16 @@
+customer_id|full_name|insurance_card_id
+c1|John Doe|1234567890
+c2|Alice Smith|0987654321
+c3|Michael Myer|09783214567
+c4|Daniel Bryan|0891234567
+c5|Brock Lesnar|07243567189
+c6|Harry Potter|0689752341
+c7|Emma Watson|0578963421
+c8|Kevin De Bruyne|5432167890
+c9|Lee Sang Hyeok|0123456789
+c10|Son Heung-Min|1923845706
+c11|Percy Jackson|1897654320
+c12|Dwayne Johnson|1789654320
+c13|Cody Garrett Runnels|1879654320
+c14|Philip Walker Foden|1789065432
+c15|Philipp Lahm|0132456879
